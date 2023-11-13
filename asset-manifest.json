@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sid-hw/static/css/main.485caaeb.css",
+    "main.js": "/sid-hw/static/js/main.206c9559.js",
+    "static/media/Group 10.png": "/sid-hw/static/media/Group 10.0ec32ae5d2b6f497cb53.png",
+    "static/media/firstImage.png": "/sid-hw/static/media/firstImage.d78a4a0093bf223a65ae.png",
+    "static/media/Gapstack.png": "/sid-hw/static/media/Gapstack.82ee80b56e460b173289.png",
+    "static/media/Solgates.png": "/sid-hw/static/media/Solgates.a37e914be71a3af4ce8b.png",
+    "static/media/Satoshi-Bold.otf": "/sid-hw/static/media/Satoshi-Bold.b5dd7deee13e32689234.otf",
+    "static/media/Satoshi-Regular.otf": "/sid-hw/static/media/Satoshi-Regular.811ccb0b5af1892a71df.otf",
+    "static/media/Kidato.png": "/sid-hw/static/media/Kidato.4d072d4206b1b335b519.png",
+    "static/media/Frame.png": "/sid-hw/static/media/Frame.a8d450afa8f97b084a24.png",
+    "static/media/Group3.png": "/sid-hw/static/media/Group3.7a9da0c4d76389df8fd1.png",
+    "static/media/Group2.png": "/sid-hw/static/media/Group2.6048139b64ce7770ed4e.png",
+    "index.html": "/sid-hw/index.html",
+    "main.485caaeb.css.map": "/sid-hw/static/css/main.485caaeb.css.map",
+    "main.206c9559.js.map": "/sid-hw/static/js/main.206c9559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485caaeb.css",
+    "static/js/main.206c9559.js"
+  ]
+}
